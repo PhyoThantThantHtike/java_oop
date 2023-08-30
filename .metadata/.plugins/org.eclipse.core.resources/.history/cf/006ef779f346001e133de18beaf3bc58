@@ -31,7 +31,6 @@ public class exercise {
 			System.out.println("Do you wnat to try again? Enter 'y' or 'n'");
 			repeat = sc.next().charAt(0);
 		}while(repeat == 'y');
-		System.out.println("hello");
 
 	}
 
