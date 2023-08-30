@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Phyo
+ *
+ */
+module FirstJavaProjectHNC {
+}

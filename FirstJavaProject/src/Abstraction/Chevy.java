@@ -1,0 +1,15 @@
+package Abstraction;
+
+public class Chevy extends Auto{
+
+	@Override
+	public void setPrice() {
+		// TODO Auto-generated method stub
+		carmake = "Chevy";
+		price = 200000;
+		System.out.println("The type of car is " + carmake+".");
+		System.out.println("The price of " + carmake + " is " + price+".");
+		
+	}
+
+}
